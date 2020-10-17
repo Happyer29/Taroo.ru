@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Happyer29/Taroo.ru/issues"
   },
-  "homepage": "https://github.com/Happyer29/Taroo.ru#readme"
+  "homepage": "https://github.com/Happyer29/Taroo.ru#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
